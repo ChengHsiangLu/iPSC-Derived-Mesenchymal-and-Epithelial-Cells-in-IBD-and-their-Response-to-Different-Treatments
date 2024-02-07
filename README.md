@@ -10,7 +10,7 @@
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/Fig1a.png)
+![](Figs/Fig1a.png)
 
 <br>
 
@@ -22,11 +22,11 @@
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/PCA_Treatment_epi_nolabels_before_combat.jpeg)
+![](Figs/PCA_Treatment_epi_nolabels_before_combat.jpeg)
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/PCA_Pheno_epi_nolabels_before_combat.jpeg)
+![](Figs/PCA_Pheno_epi_nolabels_before_combat.jpeg)
 
 <br>
 
@@ -34,11 +34,11 @@
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/PCA_Treatment_epi_nolables.jpeg)
+![](Figs/PCA_Treatment_epi_nolables.jpeg)
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/PCA_Pheno_epi_nolables.jpeg)
+![](Figs/PCA_Pheno_epi_nolables.jpeg)
 
 <br>
 
@@ -50,11 +50,11 @@
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/PCA_Treatment_mes_nolabels_before_combat.jpeg)
+![](Figs/PCA_Treatment_mes_nolabels_before_combat.jpeg)
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/PCA_Pheno_mes_nolabels_before_combat.jpeg)
+![](Figs/PCA_Pheno_mes_nolabels_before_combat.jpeg)
 
 <br>
 
@@ -62,11 +62,11 @@
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/PCA_Treatment_mes_nolabels.jpeg)
+![](Figs/PCA_Treatment_mes_nolabels.jpeg)
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/PCA_Pheno_mes_nolabels.jpeg)
+![](Figs/PCA_Pheno_mes_nolabels.jpeg)
 
 <br>
 
@@ -86,7 +86,7 @@
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/Scatterplot_TG_mes_epi_signed_logP.png)
+![](Figs/Scatterplot_TG_mes_epi_signed_logP.png)
 
 <br>
 
@@ -94,7 +94,7 @@ labeled with common up- and down-regulated genes
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/Scatterplot_TG_mes_epi_signed_logP_common.png)
+![](Figs/Scatterplot_TG_mes_epi_signed_logP_common.png)
 
 <br>
 
@@ -102,7 +102,7 @@ labeled with up- and down-regulated genes only in meschymal
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/Scatterplot_TG_mes_epi_signed_logP_mes_only.png)
+![](Figs/Scatterplot_TG_mes_epi_signed_logP_mes_only.png)
 
 <br>
 
@@ -110,7 +110,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/scatterplot_TG_mes_epi_signed_logP_epi_only.png)
+![](Figs/scatterplot_TG_mes_epi_signed_logP_epi_only.png)
 
 <br>
 
@@ -128,7 +128,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/Scatterplot_TN_mes_epi_signed_logP.png)
+![](Figs/Scatterplot_TN_mes_epi_signed_logP.png)
 
 <br>
 
@@ -136,7 +136,7 @@ labeled with up- and down-regulated common genes
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/Scatterplot_TN_mes_epi_signed_logP_common.png)
+![](Figs/Scatterplot_TN_mes_epi_signed_logP_common.png)
 
 <br>
 
@@ -144,7 +144,7 @@ labeled with up- and down-regulated genes only in meschymal
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/Scatterplot_TN_mes_epi_signed_logP_mes_only.png)
+![](Figs/Scatterplot_TN_mes_epi_signed_logP_mes_only.png)
 
 <br>
 
@@ -152,7 +152,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/Scatterplot_TN_mes_epi_signed_logP_epi_only.png)
+![](Figs/Scatterplot_TN_mes_epi_signed_logP_epi_only.png)
 
 <br>
 
@@ -170,7 +170,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_mes_black_top_genes.png)
+![](Figs/modules_mes_black_top_genes.png)
 
 <br>
 
@@ -178,7 +178,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_mes_blue_top_genes.png)
+![](Figs/modules_mes_blue_top_genes.png)
 
 <br>
 
@@ -186,7 +186,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_mes_green_top_genes.png)
+![](Figs/modules_mes_green_top_genes.png)
 
 <br>
 
@@ -194,7 +194,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_mes_grey_top_genes.png)
+![](Figs/modules_mes_grey_top_genes.png)
 
 <br>
 
@@ -203,7 +203,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_mes_pink_top_genes.png)
+![](Figs/modules_mes_pink_top_genes.png)
 
 <br>
 
@@ -211,7 +211,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_mes_red_top_genes.png)
+![](Figs/modules_mes_red_top_genes.png)
 
 <br>
 
@@ -223,7 +223,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_epi_black_top_genes.png)
+![](Figs/modules_epi_black_top_genes.png)
 
 <br>
 
@@ -231,7 +231,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_epi_blue_top_genes.png)
+![](Figs/modules_epi_blue_top_genes.png)
 
 <br>
 
@@ -239,7 +239,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_epi_pink_top_genes.png)
+![](Figs/modules_epi_pink_top_genes.png)
 
 <br>
 
@@ -247,7 +247,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_epi_red_top_genes.png)
+![](Figs/modules_epi_red_top_genes.png)
 
 <br>
 
@@ -256,7 +256,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_epi_turquoise_top_genes.png)
+![](Figs/modules_epi_turquoise_top_genes.png)
 
 <br>
 
@@ -264,7 +264,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_epi_yellow_top_genes.png)
+![](Figs/modules_epi_yellow_top_genes.png)
 
 <br>
 
@@ -280,7 +280,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/UMAP_MES_CC_wgcna.png)
+![](Figs/UMAP_MES_CC_wgcna.png)
 
 <br>
 
@@ -288,7 +288,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/UMAP_MES_CC_mrmr.png)
+![](Figs/UMAP_MES_CC_mrmr.png)
 
 <br>
 
@@ -296,7 +296,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/UMAP_MES_CC_pairwise.png)
+![](Figs/UMAP_MES_CC_pairwise.png)
 
 <br>
 
@@ -308,7 +308,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/UMAP_MES_TG_wgcna.png)
+![](Figs/UMAP_MES_TG_wgcna.png)
 
 <br>
 
@@ -316,7 +316,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/UMAP_MES_TG_mrmr.png)
+![](Figs/UMAP_MES_TG_mrmr.png)
 
 <br>
 
@@ -324,7 +324,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/UMAP_MES_TG_pairwise.png)
+![](Figs/UMAP_MES_TG_pairwise.png)
 
 <br>
 
@@ -336,7 +336,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/UMAP_MES_TN_wgcna.png)
+![](Figs/UMAP_MES_TN_wgcna.png)
 
 <br>
 
@@ -344,7 +344,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/UMAP_MES_TN_mrmr.png)
+![](Figs/UMAP_MES_TN_mrmr.png)
 
 <br>
 
@@ -352,7 +352,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/UMAP_MES_TN_pairwise.png)
+![](Figs/UMAP_MES_TN_pairwise.png)
 
 <br>
 
@@ -364,7 +364,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/CC_MES_up_down.pdf)
+![](Figs/CC_MES_up_down.pdf)
 
 <br>
 
@@ -372,7 +372,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/CC_EPI_up_down.pdf)
+![](Figs/CC_EPI_up_down.pdf)
 
 <br>
 
@@ -380,7 +380,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/TG_MES_up_down.pdf)
+![](Figs/TG_MES_up_down.pdf)
 
 <br>
 
@@ -388,7 +388,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/TG_EPI_up_down.pdf)
+![](Figs/TG_EPI_up_down.pdf)
 
 <br>
 
@@ -396,7 +396,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/TN_MES_up_down.pdf)
+![](Figs/TN_MES_up_down.pdf)
 
 <br>
 
@@ -404,7 +404,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/TN_EPI_up_down.pdf)
+![](Figs/TN_EPI_up_down.pdf)
 
 <br>
 
@@ -412,7 +412,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/TT_MES_up_down.pdf)
+![](Figs/TT_MES_up_down.pdf)
 
 <br>
 
@@ -420,7 +420,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/TT_EPI_up_down.pdf)
+![](Figs/TT_EPI_up_down.pdf)
 
 <br>
 
