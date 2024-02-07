@@ -10,7 +10,7 @@
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/RBARRETTNFATGFB/MyProject_Figs/Fig1/Fig1a/Fig1a.png)
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/Fig1a.png)
 
 <br>
 
@@ -22,11 +22,11 @@
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/RBARRETTNFATGFB/MyProject_Figs/Fig1/Fig1b/PCA_Treatment_epi_nolabels_before_combat.jpeg)
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/PCA_Treatment_epi_nolabels_before_combat.jpeg)
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/RBARRETTNFATGFB/MyProject_Figs/Fig1/Fig1b/PCA_Pheno_epi_nolabels_before_combat.jpeg)
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/PCA_Pheno_epi_nolabels_before_combat.jpeg)
 
 <br>
 
@@ -34,11 +34,11 @@
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/RBARRETTNFATGFB/MyProject_Figs/Fig1/Fig1b/PCA_Treatment_epi_nolables.jpeg)
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/PCA_Treatment_epi_nolables.jpeg)
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/RBARRETTNFATGFB/MyProject_Figs/Fig1/Fig1b/PCA_Pheno_epi_nolables.jpeg)
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/PCA_Pheno_epi_nolables.jpeg)
 
 <br>
 
@@ -50,11 +50,11 @@
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/RBARRETTNFATGFB/MyProject_Figs/Fig1/Fig1c/PCA_Treatment_mes_nolabels_before_combat.jpeg)
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/PCA_Treatment_mes_nolabels_before_combat.jpeg)
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/RBARRETTNFATGFB/MyProject_Figs/Fig1/Fig1c/PCA_Pheno_mes_nolabels_before_combat.jpeg)
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/PCA_Pheno_mes_nolabels_before_combat.jpeg)
 
 <br>
 
@@ -62,11 +62,11 @@
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/RBARRETTNFATGFB/MyProject_Figs/Fig1/Fig1c/PCA_Treatment_mes_nolabels.jpeg)
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/PCA_Treatment_mes_nolabels.jpeg)
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/RBARRETTNFATGFB/MyProject_Figs/Fig1/Fig1c/PCA_Pheno_mes_nolabels.jpeg)
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/PCA_Pheno_mes_nolabels.jpeg)
 
 <br>
 
@@ -78,7 +78,7 @@
 
 <br>
 
-#### scatter polts
+#### Scatter polts
 
 <br>
 
@@ -86,31 +86,41 @@
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/RBARRETTNFATGFB/MyProject_Figs/Fig2/Fig2a/011824_TG/Scatterplots/Scatterplot_TG_mes_epi_signed_logP.png)
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/Scatterplot_TG_mes_epi_signed_logP.png)
 
 <br>
 
-##### by FoldChange
+labeled with common up- and down-regulated genes
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/RBARRETTNFATGFB/MyProject_Figs/Fig2/Fig2a/011824_TG/Scatterplots/Scatterplot_TG_mes_epi_FC.png)
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/Scatterplot_TG_mes_epi_signed_logP_common.png)
 
 <br>
 
-labeled with up and down regulated common genes
+labeled with up- and down-regulated genes only in meschymal
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/RBARRETTNFATGFB/MyProject_Figs/Fig2/Fig2a/011824_TG/Scatterplots/Scatterplot_TG_mes_epi_FC_labeled_common_genes.png)
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/Scatterplot_TG_mes_epi_signed_logP_mes_only.png)
 
 <br>
+
+labeled with up- and down-regulated genes only in epithelial
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/scatterplot_TG_mes_epi_signed_logP_epi_only.png)
+
+<br>
+
+
 
 ### Fig2b. Global Treatment response for TNFa
 
 <br>
 
-#### scatter polts
+#### Scatter polts
 
 <br>
 
@@ -118,61 +128,308 @@ labeled with up and down regulated common genes
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/RBARRETTNFATGFB/MyProject_Figs/Fig2/Fig2b/011824_TN/Scatterplots/Scatterplot_TN_mes_epi_signed_logP.png)
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/Scatterplot_TN_mes_epi_signed_logP.png)
 
 <br>
 
-##### by FoldChange
+labeled with up- and down-regulated common genes
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/RBARRETTNFATGFB/MyProject_Figs/Fig2/Fig2b/011824_TN/Scatterplots/Scatterplot_TN_mes_epi_FC.png)
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/Scatterplot_TN_mes_epi_signed_logP_common.png)
 
 <br>
 
-labeled with up and down regulated common genes
+labeled with up- and down-regulated genes only in meschymal
 
 <br>
 
-![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/RBARRETTNFATGFB/MyProject_Figs/Fig2/Fig2b/011824_TN/Scatterplots/Scatterplot_TN_mes_epi_FC_labeled_common_genes.png)
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/Scatterplot_TN_mes_epi_signed_logP_mes_only.png)
 
 <br>
+
+labeled with up- and down-regulated genes only in epithelial
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/Scatterplot_TN_mes_epi_signed_logP_epi_only.png)
+
+<br>
+
+
 
 ## Fig3. WGCNA
 
 <br>
 
+### Fig3a. all modules top 20 genes in the mesenchymal group
+
+<br>
+
+#### module_black
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_mes_black_top_genes.png)
+
+<br>
+
+#### module_blue
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_mes_blue_top_genes.png)
+
+<br>
+
+#### module_green
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_mes_green_top_genes.png)
+
+<br>
+
+#### module_grey
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_mes_grey_top_genes.png)
+
+<br>
 
 
+#### module_pink
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_mes_pink_top_genes.png)
+
+<br>
+
+#### module_red
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_mes_red_top_genes.png)
+
+<br>
+
+### Fig3b. all modules top 20 genes in the epithelial group
+
+<br>
+
+#### module_black
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_epi_black_top_genes.png)
+
+<br>
+
+#### module_blue
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_epi_blue_top_genes.png)
+
+<br>
+
+#### module_pink
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_epi_pink_top_genes.png)
+
+<br>
+
+#### module_red
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_epi_red_top_genes.png)
+
+<br>
 
 
+#### module_turquoise
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_epi_turquoise_top_genes.png)
+
+<br>
+
+#### module_yellow
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/modules_epi_yellow_top_genes.png)
+
+<br>
+
+## Fig4. NF vs F
+
+<br>
+
+### Fig4a. mes\_CC\_WGCNA\_MRMR\_Pairwise\_top100\_umap
+
+<br>
+
+#### WGCNA
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/UMAP_MES_CC_wgcna.png)
+
+<br>
+
+#### MRMR
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/UMAP_MES_CC_mrmr.png)
+
+<br>
+
+#### Pairwise comparison
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/UMAP_MES_CC_pairwise.png)
+
+<br>
+
+### Fig4b. mes\_TG\_WGCNA\_MRMR\_Pairwise\_top100\_umap
+
+<br>
+
+#### WGCNA
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/UMAP_MES_TG_wgcna.png)
+
+<br>
+
+#### MRMR
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/UMAP_MES_TG_mrmr.png)
+
+<br>
+
+#### Pairwise comparison
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/UMAP_MES_TG_pairwise.png)
+
+<br>
+
+### Fig4c. mes\_TN\_WGCNA\_MRMR\_Pairwise\_top100\_umap
+
+<br>
+
+#### WGCNA
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/UMAP_MES_TN_wgcna.png)
+
+<br>
+
+#### MRMR
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/UMAP_MES_TN_mrmr.png)
+
+<br>
+
+#### Pairwise comparison
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/UMAP_MES_TN_pairwise.png)
+
+<br>
+
+## Fig5. Patient-Specfic responses
+
+<br>
+
+### mes\_CC
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/CC_MES_up_down.pdf)
+
+<br>
+
+### epi\_CC
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/CC_EPI_up_down.pdf)
+
+<br>
+
+### mes\_TG
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/TG_MES_up_down.pdf)
+
+<br>
+
+### epi\_TG
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/TG_EPI_up_down.pdf)
+
+<br>
+
+### mes\_TN
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/TN_MES_up_down.pdf)
+
+<br>
+
+### epi\_TN
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/TN_EPI_up_down.pdf)
+
+<br>
+
+### mes\_TT
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/TT_MES_up_down.pdf)
+
+<br>
+
+### epi\_TT
+
+<br>
+
+![](/Users/samuellu/Desktop/Cedars-Sinai/PROJECTS/IBD_RNASeq/GitHub/Figs/TT_EPI_up_down.pdf)
+
+<br>
 
 
+## Fig6. Ligand-Receptors interactions
 
+<br>
 
-## Fig4.
+### CC
 
-## Fig5.
+<br>
 
-## Fig6.
-
-
-
-github page: [ALLSorts](https://github.com/Oshlack/ALLSorts)
-
-```wget https://repo.anaconda.com/miniconda/Miniconda3-py37_4.11.0-Linux-x86_64.sh```
-
-```
-sudo yum update -y
-
-sudo amazon-linux-extras install docker
-
-sudo service docker start
-
-sudo systemctl enable docker
-
-sudo usermod -a -G docker ec2-user
-
-docker -v
-
-```
