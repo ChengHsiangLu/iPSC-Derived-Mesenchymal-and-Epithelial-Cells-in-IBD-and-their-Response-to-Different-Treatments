@@ -336,7 +336,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](Figs/UMAP_MES_TN_wgcna.png)
+![](Figs/UMAP_mes_TN_wgcna.png)
 
 <br>
 
@@ -344,7 +344,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](Figs/UMAP_MES_TN_mrmr.png)
+![](Figs/UMAP_mes_TN_mrmr.png)
 
 <br>
 
@@ -352,9 +352,15 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](Figs/UMAP_MES_TN_pairwise.png)
+![](Figs/UMAP_mes_TN_pairwise.png)
 
 <br>
+<br>
+<br>
+<br>
+<br>
+
+
 
 ## Fig5. Patient-Specfic responses
 
