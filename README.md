@@ -465,7 +465,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](Figs/TG_MES_up_down.pdf)
+![](Figs/TG_MES_up_down.png)
 
 <br>
 
@@ -473,7 +473,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](Figs/TG_EPI_up_down.pdf)
+![](Figs/TG_EPI_up_down.png)
 
 <br>
 
@@ -481,7 +481,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](Figs/TN_MES_up_down.pdf)
+![](Figs/TN_MES_up_down.png)
 
 <br>
 
@@ -489,7 +489,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](Figs/TN_EPI_up_down.pdf)
+![](Figs/TN_EPI_up_down.png)
 
 <br>
 
@@ -497,7 +497,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](Figs/TT_MES_up_down.pdf)
+![](Figs/TT_MES_up_down.png)
 
 <br>
 
@@ -505,7 +505,7 @@ labeled with up- and down-regulated genes only in epithelial
 
 <br>
 
-![](Figs/TT_EPI_up_down.pdf)
+![](Figs/TT_EPI_up_down.png)
 
 <br>
 
