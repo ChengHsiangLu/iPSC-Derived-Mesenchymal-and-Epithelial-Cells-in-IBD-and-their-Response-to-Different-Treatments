@@ -355,11 +355,90 @@ labeled with up- and down-regulated genes only in epithelial
 ![](Figs/UMAP_mes_TN_pairwise.png)
 
 <br>
-<br>
-<br>
-<br>
+
+### Fig4d. epi\_CC\_WGCNA\_MRMR\_Pairwise\_top100\_umap
+
 <br>
 
+#### WGCNA
+
+<br>
+
+![](Figs/UMAP_EPI_CC_wgcna.png)
+
+<br>
+
+#### MRMR
+
+<br>
+
+![](Figs/UMAP_EPI_CC_mrmr.png)
+
+<br>
+
+#### Pairwise comparison
+
+<br>
+
+![](Figs/UMAP_EPI_CC_pairwise.png)
+
+<br>
+
+### Fig4e. epi\_TG\_WGCNA\_MRMR\_Pairwise\_top100\_umap
+
+<br>
+
+#### WGCNA
+
+<br>
+
+![](Figs/UMAP_EPI_TG_wgcna.png)
+
+<br>
+
+#### MRMR
+
+<br>
+
+![](Figs/UMAP_EPI_TG_mrmr.png)
+
+<br>
+
+#### Pairwise comparison
+
+<br>
+
+![](Figs/UMAP_EPI_TG_pairwise.png)
+
+<br>
+
+### Fig4f. epi\_TN\_WGCNA\_MRMR\_Pairwise\_top100\_umap
+
+<br>
+
+#### WGCNA
+
+<br>
+
+![](Figs/UMAP_EPI_TN_wgcna.png)
+
+<br>
+
+#### MRMR
+
+<br>
+
+![](Figs/UMAP_EPI_TN_mrmr.png)
+
+<br>
+
+#### Pairwise comparison
+
+<br>
+
+![](Figs/UMAP_EPI_TN_pairwise.png)
+
+<br>
 
 
 ## Fig5. Patient-Specfic responses
